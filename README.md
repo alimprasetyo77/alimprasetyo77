@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+As a Frontend Developer who’s focusing on JavaScript and TypeScript with React Framework, I am an Innovative and detail-oriented person with a passion for creating responsive and user-friendly websites with a proven ability to collaborate effectively with others developers while spending extra time to be mentored. Eager to face more challenges and utilize my coding and problem solving skills to develop and optimize user experience on websites.
 <!--
 **alimprasetyo77/alimprasetyo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
