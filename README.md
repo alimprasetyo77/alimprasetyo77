@@ -1,7 +1,6 @@
 <h1 align="stary">Hi 👋, I'm Alim</h1>
 <h4 align="start">As a Frontend Developer who’s focusing on JavaScript and TypeScript with React Framework, I am an Innovative and detail-oriented person with a passion for creating responsive and user-friendly websites with a proven ability to collaborate effectively with others developers while spending extra time to be mentored. Eager to face more challenges and utilize my coding and problem solving skills to develop and optimize user experience on websites.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimprasetyo77&label=Profile%20views&color=0e75b6&style=flat" alt="alimprasetyo77" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
