@@ -1,5 +1,5 @@
 
-![Profile views](https://gpvc.arturio.dev/alimprasetyo77?v=3)
+[![](https://visitcount.itsvg.in/api?id=alimprasetyo77&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!-- Title -->
 <h3 align="center">
