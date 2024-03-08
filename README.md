@@ -19,26 +19,20 @@
                 <br>
         </samp>
         <!-- Technologies -->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
         <img alt="JavaScript"src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
-       	<img alt="React"src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
-     	<img alt="NextJS"src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-     	<img alt="TailwindCSS"src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        <img alt="React"src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <img alt="NextJS"src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        <img alt="TailwindCSS"src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap Badge">
-        <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat-square" alt="shadcn/ui Badge">
-   <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat-square" alt="React Query Badge">
-   <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square" alt="React Router Badge">
-   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=flat-square" alt="React Hook Form Badge">
-   <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=flat-square" alt="Zod Badge">
-   <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat-square" alt="Leaflet Badge">
-   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge">
-   <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
-   <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">
-   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
-   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
-   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge">
+        <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
+        <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge">
 </p>
 
 <!-- Details Section -->
