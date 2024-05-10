@@ -30,8 +30,6 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge">
         <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
         <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
         <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge">
 </p>
 
