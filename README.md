@@ -73,17 +73,9 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=KosKita&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/alimprasetyo77/RedStore">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=RedStore&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
+<a href="https://github.com/alimprasetyo77/Socialite">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=Socialite&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/alimprasetyo77/movies-app">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=movies-app&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alimprasetyo77/pokeGo">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=pokeGo&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
-</a>
-</p>
+
