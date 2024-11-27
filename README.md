@@ -26,8 +26,8 @@
         <img alt="React"src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
         <img alt="NextJS"src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
         <img alt="TailwindCSS"src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap Badge">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge">
+<!--         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap Badge"> -->
+<!--         <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge"> -->
         <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
         <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">
         <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge">
