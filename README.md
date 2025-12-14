@@ -50,7 +50,7 @@
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/alim-prasetyo-putra-sinambela-860a5b2b6/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/alim-prasetyo-putra-sinambela" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
 </details>
