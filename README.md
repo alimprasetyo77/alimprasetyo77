@@ -69,7 +69,7 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/alimprasetyo77/KosKita">
+<!-- <a href="https://github.com/alimprasetyo77/KosKita">                
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=KosKita&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
 </a>
 <span>&nbsp;</span>
@@ -79,7 +79,7 @@
 <span>&nbsp;</span>
 <a href="https://github.com/alimprasetyo77/creator-hub">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=creator-hub&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
-</a>
+</a> -->
 </p>
 
 
