@@ -1,84 +1,38 @@
+### Hi there 👋 I'm [Alim Prasetyo Putra Sinambela](https://github.com/your-username)
 
-[![](https://visitcount.itsvg.in/api?id=alimprasetyo77&icon=6&color=1)](https://visitcount.itsvg.in)
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-<!-- Title -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a href="#">Alim Prasetyo Putra Sinambela</a></b>
-        </samp>
-</h3>
-<br>
+## Frontend-Oriented Web Developer
 
-<p align="center">
-        <!-- Intro -->
-        <samp>
-                「 I'm a <b>Frontend developer</b> 」
-                <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
-                <br>
-                <br>
-        </samp>
-        <!-- Technologies -->
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
-        <img alt="JavaScript"src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
-        <img alt="React"src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
-        <img alt="NextJS"src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-        <img alt="TailwindCSS"src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-<!--         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap Badge"> -->
-<!--         <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge"> -->
-<!--         <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge"> -->
-<!--         <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge"> -->
-<!--         <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge"> -->
-</p>
+- 👨‍💻 Focused on building modern web interfaces with React & Next.js  
+- 🧠 Experienced in developing real-world fullstack applications  
+- 📚 Continuously improving code quality and frontend best practices  
 
-<!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimprasetyo77&show_icons=true&locale=en&layout=compact" alt="alimprasetyo77" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimprasetyo77" alt="alimprasetyo77" /></p>
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:connect.alimprasetyo96@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/alim-prasetyo-putra-sinambela" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-</details>
-<br>
+##### Languages I use
 
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻"
-    </p>
-</samp>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-<!-- Featured Repositories -->
-<!-- #### Featureds
-<!-- <p align="center"> 
-<a href="https://github.com/alimprasetyo77/KosKita">                
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=KosKita&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alimprasetyo77/Homez">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=Homez&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alimprasetyo77/creator-hub">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alimprasetyo77&repo=creator-hub&border_color=19A7CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=19A7CE" />
-</a>
-</p>
--->
+##### Some of the technologies I have worked with
 
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
+
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=alimprasetyo77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alimprasetyo77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alimprasetyo77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
