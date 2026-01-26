@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Frontend Developer
+### Frontend Developer
 
 - 👨‍💻 Focused on building modern web with React  
-- 🧠 Experienced in developing fullstack applications  
-- 📚 Continuously improving code quality and frontend best practices  
+- ⏰ Experienced in developing fullstack applications  
+- 📚 Continuously improving code quality and best practices
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
