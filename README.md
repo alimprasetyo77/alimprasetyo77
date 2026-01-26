@@ -1,11 +1,11 @@
-### Hi there 👋 I'm [Alim](https://github.com/alimprasetyo77)
+## Hi there 👋 I'm [Alim](https://github.com/alimprasetyo77)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-### Frontend Developer
+#### I'm a Frontend Developer
 
 - 👨‍💻 Focused on building modern web with React  
-- ⏰ Experienced in developing fullstack applications  
+- 🧩 Experienced in developing fullstack applications  
 - 📚 Continuously improving code quality and best practices
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
