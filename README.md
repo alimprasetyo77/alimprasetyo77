@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Alim Prasetyo Putra Sinambela](https://github.com/alimprasetyo77)
+### Hi there 👋 I'm [Alim](https://github.com/alimprasetyo77)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
