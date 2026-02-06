@@ -21,6 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
 
 ##### Some of the technologies I have worked with
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
@@ -28,7 +29,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
 ![Supabase](https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase)
-![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
 
 ---
 
