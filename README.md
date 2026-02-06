@@ -12,13 +12,13 @@
 ---
 
 ##### Technologies I use
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
